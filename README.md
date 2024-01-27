@@ -33,7 +33,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/nikoll-serrate-63716b2a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/nikoll-serrate-63716b2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/nikysv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.instagram.com/niky.sv_?igsh=a2Z6MGl5cXF3ZGo='> <img width = '32px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-188-498425.png?f=webp&w=256"/></a>
   
