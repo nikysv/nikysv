@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently a Student at Escuela Militar de Ingenieria
   
-- 🌱 I’m currently learning JavaScript, Python, HTML and NoSql
+- 🌱 I’m currently learning JavaScript, React, Flutter and NoSql
   
 - 👯 I’m looking to collaborate on Projects
   
-- 💬 Ask me about Sql, C#, C++
+- 💬 Ask me about Sql, C#, C++, Python, Web development
   
 - ⚡ Fun fact: I love dancing 💃
 
