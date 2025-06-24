@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently a Student at Escuela Militar de Ingenieria
   
-- 🌱 I’m currently learning JavaScript, React, Flutter and NoSql
+- 🌱 I’m currently learning Firebase, MongoDB, Nestjs, trying to be fluent in Javascript 
   
 - 👯 I’m looking to collaborate on Projects
   
 - 💬 Ask me about Sql, C#, C++, Python, Web development
   
-- ⚡ Fun fact: I love dancing 💃
+- ⚡ Fun fact: I love dancing and singing 💃
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h2>
 <a href= tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
